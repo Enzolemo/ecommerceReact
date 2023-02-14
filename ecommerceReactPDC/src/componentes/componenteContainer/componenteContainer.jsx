@@ -1,5 +1,5 @@
-import Menu from "../NavBar"
-import NavBar from "../NavBar"
+import Menu from "../navBar/NavBar"
+import NavBar from "../navBar/NavBar"
 
 const ComponenteContenedor = ({props})=>{
     return(

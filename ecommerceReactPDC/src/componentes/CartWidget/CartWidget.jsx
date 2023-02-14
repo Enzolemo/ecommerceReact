@@ -1,6 +1,6 @@
 const CartWidwet = () => {
     return(
-        <div>CARRITO</div>
+        <div> 🛒</div>
     )
 }
 
